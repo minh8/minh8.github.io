@@ -1,5 +1,5 @@
-const WIDTH = 1200;
-const HEIGHT = 800;
+const WIDTH = 1000;
+const HEIGHT = 600;
 const w = 100;
 const h = 50;  
 let x = 0;
