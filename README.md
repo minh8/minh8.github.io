@@ -1,4 +1,5 @@
 # minh8.github.io
-@Copyright (c) 2019 Code Là Ghiền (Huy Nguyễn)
+@CopyRight (c) 2019 Code Là Ghiền (Huy Nguyễn)
 
-"minh8.github.io" + "name of folder" 
+https://minh8.github.io/foler_name_on_there
+ex:https://minh8.github.io/matrix/ 
