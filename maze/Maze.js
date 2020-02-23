@@ -6,7 +6,7 @@ class Maze {
     this.height = int(h);
     this.title = title;
     this.init();
-    this.stop = 450;
+    // this.stop = 300;
   }
 
   init() {
@@ -14,7 +14,7 @@ class Maze {
     this.top = 90;
     this.data = [];
     this.columns = int(random(50) + 4);
-    this.maxRecursion = 100;
+    this.maxRecursion = 400;
     this.currentRecursion = 0;
 
     if (this.columns * 5 > this.width - this.margin * 2) this.columns = 5;
