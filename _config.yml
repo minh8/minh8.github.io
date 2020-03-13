@@ -1,15 +1,17 @@
 # Site settings
-title: Code là Ghiền !
-description: Code là Ghiền !
-baseurl: "codelaghien.github.io"
-url: "codelaghien.github.io"
+title: A blog about lorem ipsum dolor sit amet
+description: A blog about lorem ipsum dolor sit amet
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Code là Ghiền !
-user_description: Code là Ghiền là channel để giúp cho các bạn yêu thích ngành công nghệ thông tin hay lập trình tìm hiểu thêm kiến thức mới, thảo luận hay chia sẻ kinh nghiệm để cùng nhau hiểu nhiều hơn về máy tính và những kỷ thuật mới để áp dụng cho cuộc sống chúng ta ngày càng tuyệt vời hơn. Huy Nguyễn
-
+username: Anon Developer
+user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
 user_title: Software Developer
-email: codelaghien@gmail.com
+email: anon@anon.com
+twitter_username: lorem_ipsum
+github_username:  lorem_ipsum
+gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
